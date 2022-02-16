@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Videos
+optional_tab_title: Lecture slides
+optional_text: '[Reducing the Danger of Nuclear Weapons and Proliferation (PDF)](resources/mitres_8-004iap15_bernst)'
+parent_title: Videos
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Reducing the Danger of Nuclear Weapons and Proliferation'
 uid: bd74e233-3568-32cb-3db7-05cf68b0798c
 video_files:
   archive_url: https://archive.org/download/MITRES.8-004IAP15/MITRES_8-004IAP15_lec02_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/88c24fa0ce8359ad9dd5dae3f6d6655b_FXxpkucTR2E.vtt
+  video_captions_file: /courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/88c24fa0ce8359ad9dd5dae3f6d6655b_FXxpkucTR2E.vtt
   video_thumbnail_file: https://img.youtube.com/vi/FXxpkucTR2E/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/60efb2dc989e68acfa265a8cac10afd3_FXxpkucTR2E.pdf
+  video_transcript_file: /courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/60efb2dc989e68acfa265a8cac10afd3_FXxpkucTR2E.pdf
 video_metadata:
   youtube_id: FXxpkucTR2E
 ---
