@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: SupplementalResourceSection
+parent_uid: 1a2dddbf-08ba-29c3-9ff3-867815bbe77f
 resourcetype: Document
 title: South Asia Under the Shadow of Nuclear Weapons
 uid: 8307d438-84d5-da2f-1f94-52a2f8b873ff

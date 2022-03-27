@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: SupplementalResourceSection
+parent_uid: 1a2dddbf-08ba-29c3-9ff3-867815bbe77f
 resourcetype: Document
 title: Reducing the Danger of Nuclear Weapons and Proliferation
 uid: aa028dc9-628e-c934-ad08-a97c004c8937
