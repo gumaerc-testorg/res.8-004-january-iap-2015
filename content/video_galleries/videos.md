@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section contains the audio lectures, slide presentations, and transcripts
+  from this lecture series.
 is_media_gallery: true
 learning_resource_types:
 - Videos
