@@ -6,6 +6,7 @@ file: /courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferatio
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: SupplementalResourceSection
@@ -15,4 +16,3 @@ title: South Asia Under the Shadow of Nuclear Weapons
 uid: 8307d438-84d5-da2f-1f94-52a2f8b873ff
 ---
 This resource contains the information regarding south asia under the shadow of nuclear weapons.
-

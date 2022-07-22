@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/36c619c3de9f3b16bc13ea3a4512de41_clG-JuzTxrI.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
