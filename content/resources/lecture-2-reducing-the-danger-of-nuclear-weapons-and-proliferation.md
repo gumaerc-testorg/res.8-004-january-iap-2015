@@ -34,5 +34,3 @@ video_metadata:
 
 **Instructor:** Aron M. Bernstein
 
-
-
