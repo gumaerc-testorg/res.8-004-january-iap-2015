@@ -3,7 +3,7 @@ content_type: resource
 description: A photographer's representation of what life could be like after a catastrophic
   global nuclear war. Image courtesy of Paul Hocksenar on Flickr. License CC BY-NC-SA
   2.0.
-file: /ol-ocw-studio-app/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/375b81029507a4f501ee0bad98e0884e_res-8-004iap15-th.jpg
+file: /courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/375b81029507a4f501ee0bad98e0884e_res-8-004iap15-th.jpg
 file_size: 6589
 file_type: image/jpeg
 image_metadata:

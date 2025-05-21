@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding reducing the danger
   of nuclear weapons and proliferation.
-file: /ol-ocw-studio-app/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/aa028dc9628ec934ad08a97c004c8937_MITRES_8-004IAP15_Bernst.pdf
+file: /courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/aa028dc9628ec934ad08a97c004c8937_MITRES_8-004IAP15_Bernst.pdf
 file_size: 431454
 file_type: application/pdf
 learning_resource_types:
