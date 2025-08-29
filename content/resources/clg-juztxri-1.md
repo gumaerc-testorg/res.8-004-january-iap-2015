@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/36c619c3de9f3b16bc13ea3a4512de41_clG-JuzTxrI.pdf
+file: /ol-ocw-studio-app/courses/res-8-004-reducing-the-danger-of-nuclear-weapons-and-proliferation-january-iap-2015/36c619c3de9f3b16bc13ea3a4512de41_clG-JuzTxrI.pdf
 file_size: 155308
 file_type: application/pdf
 learning_resource_types: []
